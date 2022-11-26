@@ -1,2 +1,3 @@
 Cargo.toml
-
+src/main.exe
+src/main.pdb

@@ -1,0 +1,1 @@
+D:\RIMACHI\PROGRAMACIÓN\RUST\The\ Rust\ Programming\ Language\projects\my_project\target\debug\my_project.exe: D:\RIMACHI\PROGRAMACIÓN\RUST\The\ Rust\ Programming\ Language\projects\my_project\src\main.rs

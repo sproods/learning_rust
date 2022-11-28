@@ -1,0 +1,1 @@
+D:\RIMACHI\PROGRAMACIÓN\RUST\The\ Rust\ Programming\ Language\projects\hello_cargo\target\debug\hello_cargo.exe: D:\RIMACHI\PROGRAMACIÓN\RUST\The\ Rust\ Programming\ Language\projects\hello_cargo\src\main.rs
